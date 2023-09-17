@@ -1,0 +1,10 @@
+#A00475492
+
+def subtraction(a, b):
+    if a > b:
+        return a - b
+    else:
+        return b - a
+
+result = subtraction(10, 5)
+print(result)
