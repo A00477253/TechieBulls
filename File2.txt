@@ -1,3 +1,4 @@
+
 #A00475492
 
 def mod(a, b):
@@ -5,3 +6,19 @@ def mod(a, b):
 
 result = mod(10, 5)
 print(result)
+#A00477253
+public class DivisionExample {
+    public static void main(String[] args) {
+        System.out.println("The addition value is "+ divide(2,3));
+    }
+    public static int divide(int num1, int num2){
+        if(num2!=0){
+
+        return num1/num2;
+        }
+        else{
+            return 0;
+        }
+    }
+}
+

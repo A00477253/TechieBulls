@@ -1,3 +1,4 @@
+
 #A00475492
 
 def avg(a, b):
@@ -5,3 +6,22 @@ def avg(a, b):
 
 result = avg(10, 5)
 print(result)
+
+#A00477253
+public class Max {
+    public static void main(String[] args) {
+        List<Integer> numList=new ArrayList<>();
+        numList.add(76);
+        numList.add(85);
+        numList.add(92);
+        numList.add(20);
+        List<Integer> sortedList=numList.stream().sorted(new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+                return o2-o1;
+            }
+        }).collect(Collectors.toList());
+        System.out.println(sortedList.get(0));
+    }
+}
+
