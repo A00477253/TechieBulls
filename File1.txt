@@ -10,14 +10,3 @@ def subtraction(a, b):
 result = subtraction(10, 5)
 print(result)
 
-#A00477253
-public class AdditionExample {
-    public static void main(String[] args) {
-        System.out.println("The addition value is "+ add(2,3));
-    }
-    public static int add(int num1, int num2){
-        return num1+num2;
-    }
-    
-}
-
