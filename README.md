@@ -14,7 +14,9 @@ Being a fresher and having no white-collar world experience it might be hard for
 ##### I am looking for endless opportunities, possibilities, problems, and solutions to the very same in the coming future
 
 My LinkedIn: www.linkedin.com/in/pranaymalusare (please consider connecting) 
+
 My email: pranay.prabhakar.malusare@smu.ca
+
 My personal email: malusarepra@gmail.com
 
 
