@@ -1,4 +1,5 @@
 
+
 #A00475492
 
 def avg(a, b):
@@ -25,3 +26,10 @@ public class Max {
     }
 }
 
+
+#A00474740
+
+int power(int a, int b)
+{
+    return Math.pow(a,b);
+}

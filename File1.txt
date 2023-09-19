@@ -21,3 +21,9 @@ public class AdditionExample {
     
 }
 
+#A00474740
+int multiplication(int a , int b)
+{
+    return a * b;
+}
+
