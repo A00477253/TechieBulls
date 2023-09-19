@@ -1,3 +1,13 @@
+
+#A00475492
+
+def avg(a, b):
+    return (a + b) / 2
+
+result = avg(10, 5)
+print(result)
+
+#A00477253
 public class Max {
     public static void main(String[] args) {
         List<Integer> numList=new ArrayList<>();
@@ -14,3 +24,4 @@ public class Max {
         System.out.println(sortedList.get(0));
     }
 }
+
